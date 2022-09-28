@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.1)  28 SEP 2022 03:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.1)  28 SEP 2022 17:48
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2801,9 +2801,12 @@ LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 7.
 
 (./_minted-Main/F092A9172DFEB5FD7BC60A5C5703924EA9855B5ED9AF29497F2B398041C9260
 D.pygtex))
+Overfull \vbox (3.83574pt too high) detected at line 30
+ []
+
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 29.
+Package pdftex.def Info: ./figures/background.png  used on input line 30.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2818,7 +2821,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 48.
+Package pdftex.def Info: ./figures/background.png  used on input line 49.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2833,7 +2836,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 71.
+Package pdftex.def Info: ./figures/background.png  used on input line 72.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2857,7 +2860,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 0.pygtex))
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 99.
+Package pdftex.def Info: ./figures/background.png  used on input line 100.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -2873,11 +2876,11 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 <./figures/autotests.png, id=875, 938.75719pt x 188.95593pt>
 File: ./figures/autotests.png Graphic file (type png)
 <use ./figures/autotests.png>
-Package pdftex.def Info: ./figures/autotests.png  used on input line 113.
+Package pdftex.def Info: ./figures/autotests.png  used on input line 114.
 (pdftex.def)             Requested size: 390.6649pt x 78.63437pt.
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 113.
+Package pdftex.def Info: ./figures/background.png  used on input line 114.
 (pdftex.def)             Requested size: 42.67912pt x 247.12024pt.
 
 Overfull \vbox (6.37871pt too high) has occurred while \output is active []
@@ -5388,7 +5391,7 @@ Package logreq Info: Writing requests to 'Main.run.xml'.
 Here is how much of TeX's memory you used:
  55992 strings out of 477529
  1230624 string characters out of 5827605
- 1932356 words of memory out of 5000000
+ 1932357 words of memory out of 5000000
  73185 multiletter control sequences out of 15000+600000
  484068 words of font info for 83 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
@@ -5413,7 +5416,7 @@ ts/cm/cmssi9.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm
 /texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></opt/texli
 ve/texdir/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></opt/texli
 ve/texdir/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Main.pdf (176 pages, 1736568 bytes).
+Output written on Main.pdf (176 pages, 1736657 bytes).
 PDF statistics:
  2924 PDF objects out of 2984 (max. 8388607)
  2458 compressed objects within 25 object streams
