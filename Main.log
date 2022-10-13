@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.1)  13 OCT 2022 21:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.1)  13 OCT 2022 22:36
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1663,14 +1663,7 @@ Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
 tent/Implementierung2.aux)
 (./content/Implementierung3.aux) (./content/Qualitätssicherung.aux)
 (./content/Vorführung.aux) (./content/Appendix.aux)
-(./content/Dokumentation.aux
-
-LaTeX Warning: Label `kommandozeilenargumente<1>' multiply defined.
-
-
-LaTeX Warning: Label `kommandozeilenargumente' multiply defined.
-
-) (./content/Codebeispiel.aux))
+(./content/Dokumentation.aux) (./content/Codebeispiel.aux))
 \openout1 = `Main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -4080,21 +4073,9 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [105
 
 ]
-\openout4 = `Main.106.vrb'.
+\openout4 = `Main.vrb'.
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{kommandozeile
-nargumente<1>}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.119 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{kommandozeile
-nargumente}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.119 \end{frame}
-                  (./Main.106.vrb
+ (./Main.vrb
 Overfull \hbox (3.0968pt too wide) in paragraph at lines 9--9
  []\OT1/cmss/m/n/8 most[]used: 
  []
@@ -5514,9 +5495,6 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `Main.out' has not changed.
 (rerunfilecheck)             Checksum: FEF69701A227E1CE0032341A87294D60;9241.
 Package logreq Info: Writing requests to 'Main.run.xml'.
@@ -5524,10 +5502,10 @@ Package logreq Info: Writing requests to 'Main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 56724 strings out of 477529
- 1246243 string characters out of 5827605
- 1938181 words of memory out of 5000000
- 73903 multiletter control sequences out of 15000+600000
+ 56721 strings out of 477529
+ 1246191 string characters out of 5827605
+ 1938142 words of memory out of 5000000
+ 73901 multiletter control sequences out of 15000+600000
  484068 words of font info for 83 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  133i,18n,125p,1068b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
